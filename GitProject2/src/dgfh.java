@@ -1,4 +1,7 @@
 
 public class dgfh {
-  system.out.println("edited in gitbuh");
+	public dgfh() {
+		 System.out.println("edited in gitbuh");
+	}
+ 
 }
