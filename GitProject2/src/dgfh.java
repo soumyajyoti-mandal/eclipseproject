@@ -8,6 +8,7 @@ public class dgfh {
 		System.out.println(myname + " " + surname);
 		System.out.println(myname);
 		System.out.println(surname);
+		//added from eclipse
 	}
  
 }
