@@ -6,6 +6,8 @@ public class dgfh {
 		 String myname= "soumyajyoti";
 		String surname ="mandal";
 		System.out.println(myname + " " + surname);
+		System.out.println(myname);
+		System.out.println(surname);
 	}
  
 }
